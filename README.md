@@ -1,2 +1,1 @@
-# SSL
-Repositorio para Sintaxis y Semántica de los Lenguajes, cursada 2025, 2do año de Ingeniería en Sistemas de Información - UTN FRBA. 
+El compilador seleccionado es GCC (GNU Compiler Collection) y su versión es: 14.2.0. La versión de C que compila es: C11. 
